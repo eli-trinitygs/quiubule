@@ -1,5 +1,22 @@
 # Quiubule
 
+Practica de Angular para repasar :
+
+- creación de componentes y directivas estructurales
+
+- Angular Cli
+
+- Creación de entorno
+
+-Estructura principal de un proyecto
+
+-Utilizar Boostrap (componente header, body y footer)
+
+- Directivas Estructurales: `*ngFor` y `*ngIf`
+
+---------------------------------------------------------------------------------------
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
 
 ## Development server
