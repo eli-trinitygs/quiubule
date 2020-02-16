@@ -1,4 +1,4 @@
-# Quiubule
+# Quiubule ("Quiubule" es el remplazo al 'HOLA MUNDO')
 
 Practica de Angular para repasar :
 
